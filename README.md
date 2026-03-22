@@ -42,8 +42,7 @@ Based on the Hegelian dialectic, the app takes two opposing inputs:
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve DIALECTIC.OS, feel free to open an issue or submit a pull request.
-
+Contributions are welcome! If you want to refine the synthesis algorithm or the UI, feel free to open a Pull Request.
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/your-idea`)
 3. Commit your changes (`git commit -m 'feat: add your idea'`)
