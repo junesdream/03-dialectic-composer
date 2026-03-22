@@ -38,7 +38,6 @@ Based on the Hegelian dialectic, the app takes two opposing inputs:
 
     [ ] Version 2.1: MIDI Export functionality.
 
-🤝 Contributors
 
 ## 🤝 Contributing
 
