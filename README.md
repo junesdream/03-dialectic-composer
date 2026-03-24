@@ -2,6 +2,12 @@
 
 An algorithmic music synthesizer built with **React**, **TypeScript**, and **Tone.js**. This application translates philosophical concepts into unique harmonic structures using real-time digital signal processing.
 
+![CI Status](https://github.com/junesdream/03-dialectic-composer/actions/workflows/main.yml/badge.svg)
+![Tone.js](https://img.shields.io/badge/Audio-Tone.js-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+
+> **Live Demo:** [Click here to chat](https://03-dialectic-composer.vercel.app/)
+
 ## 🚀 Concept: Musical Synthesis
 Based on the Hegelian dialectic, the app takes two opposing inputs:
 1. **Thesis:** Generates the harmonic foundation.
